@@ -1,3 +1,3 @@
 # ProductMatching
 
-Dataset is from Shopee League.
+Dataset from Shopee League.
